@@ -1,12 +1,12 @@
 {
-    "name": "𝙳𝙰𝚇𝚇 𝙼𝚄𝚂𝙸𝙲",
+    "name": "𝙄𝙎𝙃𝘼 𓆩♡𓆪 𝙎𝙀𝙉𝙋𝘼𝙄",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/00c0fc1bbb9660dd650d0.jpg",
+    "logo": "https://telegra.ph/file/22ce4b920174bc91a01f7.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "AIKO",
+    "ISHA",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
