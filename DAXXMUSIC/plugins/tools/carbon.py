@@ -23,7 +23,7 @@ async def _carbon(client, message):
         return
     if not (replied.text or replied.caption):
         return await message.reply_text("**ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴛᴇxᴛ ᴍᴇssᴀɢᴇ ᴛᴏ ᴍᴀᴋᴇ ᴀ ᴄᴀʀʙᴏɴ.**")
-    text = await message.reply("Processing...")
+    text = await message.reply("❄️")
     carbon = await make_carbon(replied.text or replied.caption)
     await text.edit("**ᴜᴘʟᴏᴀᴅɪɴɢ...**")
     await message.reply_photo(carbon)
