@@ -80,7 +80,7 @@ InlineKeyboardButton("𝗖𝗖 𝗕𝗢𝗧", url=f"https://github.com/DAXXTEAM/
 # --------------
 
 
-@app.on_message(filters.command("repo", prefixes="#"))
+@app.on_message(filters.command("rand", prefixes="#"))
 @capture_err
 async def repo(_, message):
     async with httpx.AsyncClient() as client:
