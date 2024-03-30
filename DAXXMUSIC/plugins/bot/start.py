@@ -28,7 +28,7 @@ from strings import get_string
 
 #--------------------------
 
-NEXI_PHO = [
+NEXI_VID = [
 "https://telegra.ph/file/a581ebfaae0223f39bea5.jpg",
 "https://telegra.ph/file/d5c23cd534e8c05eb2096.jpg",
 "https://telegra.ph/file/dde4b85bc7b891b8c2188.jpg",
