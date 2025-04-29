@@ -13,32 +13,32 @@
     ],
     "env": {
       "API_ID": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "12380656",
         "value": "",
         "required": true
       },
       "API_HASH": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "d927c13beaaf5110f25c505b7c071273",
         "value": "",
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "A Bot's token from Botfather",
+        "description": "7090059762:AAEuDJv4SubGikiP7A2dYglV-TgaKDaecyQ",
         "value": "",
         "required": true
       },
       "MONGO_DB_URI": {
-        "description": "Get a mongodb url from https://cloud.mongodb.com.",
+        "description": "mongodb+srv://senpai:TheChampu@database.q6zl7gt.mongodb.net/?retryWrites=true&w=majority&appName=database",
         "value": "",
         "required": true
       },
       "OWNER_ID": {
-        "description": "The user id of user whom you would like to add as OWNER.",
+        "description": "5946409711",
         "value": "",
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram v2 String Session from @STRINGSEASO_NBOT on Telegram.",
+        "description": "BQC86fAAgYH59pdK0NfLtQSG0wLUZLfChEzE3lXmZFrkToE_ztAGEVYXXNEUvx92iePr5ofqg8WuiqMlq1Z5WWZroTXyqN7EpX0CgO8JC7aqI7_VSnzaLDK4MJZDFDz_AodKQY3zTfywv4ChULJIYuxjM5MM6N4HRytYzwVVq059XuDMV0yJoaztPnWLOHpxhl_hjcwR_t-YFkPpUWbnpkKBRO0iIJDP0HXjd1G8SpWjjmvATkaBTKYITFUFHoqW3zEfEF4Z4TLbo1layAZ06-K1baIGZXCM2RIy_u9qp-BTvfmzjCh4cGuTEnXVNKEw29rvQK5uLzdpv4QTuaNp1zAlQWUOVgAAAAHcw126AA",
         "value": "",
         "required": true
       },
@@ -53,7 +53,7 @@
         "required": false
       },
       "LOGGER_ID": {
-        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
+        "description": "-1002087696194",
         "value": "",
         "required": true
       }
