@@ -25,4 +25,6 @@ RUN pip install --upgrade pip
 # Install Python dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
+RUN printenv
+
 CMD ["bash", "start"]
