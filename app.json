@@ -23,7 +23,7 @@
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "7090059762:AAEuDJv4SubGikiP7A2dYglV-TgaKDaecyQ",
+        "description": "7090059762:AAHjubvQ_sneUyLUVUsPD1lASYUCgJZi03A",
         "value": "",
         "required": true
       },
@@ -38,7 +38,7 @@
         "required": true
       },
       "STRING_SESSION": {
-        "description": "BQC86fAAgYH59pdK0NfLtQSG0wLUZLfChEzE3lXmZFrkToE_ztAGEVYXXNEUvx92iePr5ofqg8WuiqMlq1Z5WWZroTXyqN7EpX0CgO8JC7aqI7_VSnzaLDK4MJZDFDz_AodKQY3zTfywv4ChULJIYuxjM5MM6N4HRytYzwVVq059XuDMV0yJoaztPnWLOHpxhl_hjcwR_t-YFkPpUWbnpkKBRO0iIJDP0HXjd1G8SpWjjmvATkaBTKYITFUFHoqW3zEfEF4Z4TLbo1layAZ06-K1baIGZXCM2RIy_u9qp-BTvfmzjCh4cGuTEnXVNKEw29rvQK5uLzdpv4QTuaNp1zAlQWUOVgAAAAHcw126AA",
+        "description": "BQHOs_AAPJ5V-cVrSfi-OFi3RGD4Ys6R1Xmt13-Z0n77waKDdcMud-z8fJzqLCYxw8Z2ziKoOgh7KzyUcSpQN7wKIvM9kq2BbHtHj66Mg-BhQeT6bpSj0IhzvyffbWW8KiZ2VUZD4M8k9Nmi-KjvgPbflmD4eRqQfTKyRznZaNZSEsAe4ImFL4ysUjfX-lbErc3BxZH1NMcuHgdmoriZ-LR-7Z-lNJCO4kIqgcLI_wosLn4-cFeMLHdNS_dj7V6NS7LhAErrf7VMTwF9IjLZXwRr7HJb7xrJVtoCldbV5dWo6Qoq2jGfrD-n7UcXO_zK-EIF9nUqhTg3Gt9gfZ7ZO-2Z2n96_AAAAAHcw126AA",
         "value": "",
         "required": true
       },
@@ -53,7 +53,7 @@
         "required": false
       },
       "LOGGER_ID": {
-        "description": "-1002087696194",
+        "description": "-1003506000711",
         "value": "",
         "required": true
       }
